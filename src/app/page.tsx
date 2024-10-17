@@ -8,8 +8,8 @@ export default function Home() {
         <body className="bg-black">  
         <div className="-mx-10" >
           {/* <h1 className="font-bold text-3xl text-white">Hi, I'm Hamzah Syed</h1> */}
-          <h1 className=" text-white text-8xl mt-60 mx-40" style={{fontFamily: 'cursive'}}>Uber</h1>
-          <h2 className=" text-green-300 text-8xl mt-0 mx-40" style={{ fontFamily: 'cursive' }}>Eats</h2>
+         <a href="https://www.ubereats.com/?srsltid=AfmBOor8DcVEbRuYuYFp84zoH9EgeuovcI-WyzXDQTwUb1oZgTqON9a_" > <h1 className=" text-white text-8xl mt-60 mx-40" style={{fontFamily: 'cursive'}}>Uber</h1> </a>
+         <a href="https://www.ubereats.com/?srsltid=AfmBOor8DcVEbRuYuYFp84zoH9EgeuovcI-WyzXDQTwUb1oZgTqON9a_" > <h2 className=" text-green-300 text-8xl mt-0 mx-40" style={{ fontFamily: 'cursive' }}>Eats</h2> </a>
           <p className=" text-white text-2xl mt-0 mx-52">40+ Screens</p>
           {/* <button className="bg-gray-900 text-white py-2 mt-4 px-4 hover:bg-blue-400"  >View My Work</button> */}
         </div>
